@@ -1,6 +1,6 @@
 const logOut = document.querySelector(`.logOut`);
 logOut.addEventListener(`click`, function () {
-	window.location.href = "login.html";
+	window.location.href = "index.html";
 });
 //total ammount feild
 const totalAmmount = document.querySelector(`.totalAmmount`);
